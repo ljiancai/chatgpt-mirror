@@ -12,7 +12,7 @@ Based on model `gpt-3.5-turbo`.
 ```bash
 $ pnpm install
 ```
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com/ljiancai/geeac/tree/main)
 ## Running the app
 
 Create a `.env` file in the root directory and add your OpenAI API key:
